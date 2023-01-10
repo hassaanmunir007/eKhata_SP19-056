@@ -1,0 +1,20 @@
+HIGH PRIORITY:
+- Push to github
+
+TODO:
+
+BUGS TO FIX:
+
+KNOWN BUGS:
+- too large number mess up CashFlowBox
+
+
+DONE:
+- searching when there are no Customers
+- single character/number keys for json objects are not working
+- CashFlowBox on main screen should reload when all customers are deleted
+- on Add Customer screen, if password is incorrect red underline should be shown
+
+
+
+theme == 0 ? DefaultTheme : (theme == 1 ? DarkTheme : DefaultTheme)

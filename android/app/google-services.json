@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565935221615",
+    "project_id": "ekhata-980a5",
+    "storage_bucket": "ekhata-980a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565935221615:android:6329baa2044704cfcb569a",
+        "android_client_info": {
+          "package_name": "com.ekhatacli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565935221615-abov135bjnf6o7kodahrhf6ckod68o6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpmX26vtGwmvu_S-GVcnR8nmRuH5jGuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565935221615-abov135bjnf6o7kodahrhf6ckod68o6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
